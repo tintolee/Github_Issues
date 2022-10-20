@@ -39,10 +39,10 @@ export const Pagination: React.FC<Props> = (props) => {
         renderOnZeroPageCount={undefined}
         nextClassName="bg-gray-600 py-1 px-4 rounded-md text-gray-100"
         previousClassName="bg-gray-600 py-1 px-4 rounded-md text-gray-100"
-        pageClassName="text-gray-100"
-        pageLinkClassName='bg-gray-600 py-1 px-4 rounded-md'
+        pageClassName="text-white-100"
+        pageLinkClassName='py-1 px-4 rounded-md'
         containerClassName='flex items-center justify-around w-full md:w-2/3 fixed bottom-10'
-        activeClassName='bg-red-500'
+        activeClassName='bg-purple-500'
       />
     </>
   );

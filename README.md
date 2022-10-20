@@ -11,4 +11,4 @@ GITHUB_GRAPHQL_ENDPOINT="https://api.github.com/graphql"
 #4 start the dev server with:
 npm run dev
 
-Good!
+
